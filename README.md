@@ -2,7 +2,7 @@
 23.06.2020
 
 ### Project Title
-GitHub Project
+My GitHub Project
 
 ### Description
 
