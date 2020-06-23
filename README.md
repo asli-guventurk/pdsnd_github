@@ -19,4 +19,5 @@ new_york_city.csv
 ### Credits
 Links:
 Repo https://github.com/udacity/pdsnd_github 
-Stack Overflow https://stackoverflow.com/ 
+Stack Overflow https://stackoverflow.com/   
+Google Search https://www.google.com.tr/
