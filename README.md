@@ -6,6 +6,10 @@ GitHub Project
 
 ### Description
 
+Refactor the BikeShare project using Git and GitHub and improve the documentation of the project 
+bikeshare.py program/project explores the US bikeshare data to understand better 
+
+
 
 ### Files used
 Include the files used
