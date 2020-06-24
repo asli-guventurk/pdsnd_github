@@ -226,7 +226,7 @@ def raw_data(df):
             return
         i = i + 5
         print(df.iloc[i:i+5])
-    
+
 
 def main():
     while True:
@@ -237,7 +237,7 @@ def main():
         station_stats(df)
         trip_duration_stats(df)
         user_stats(df)
-        
+
         while True:
             view_data= input('\nWould you like to view first five row of raw data? Enter yes or no.\n')
             if view_data.lower() != 'yes':
